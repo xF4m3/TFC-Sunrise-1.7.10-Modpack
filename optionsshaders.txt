@@ -1,0 +1,17 @@
+#Mon Oct 06 18:46:00 CEST 2014
+TexMinFilB=0
+shadowResMul=1.0
+tweakBlockDamage=true
+TexMagFilB=0
+oldLighting=false
+handDepthMul=0.125
+shaderPack=seus-v10.1-Preview2.zip
+TexMinFilS=0
+renderResMul=1.0
+TexMagFilS=0
+TexMinFilN=0
+shadowClipFrustrum=true
+TexMagFilN=0
+normalMapEnabled=true
+cloudShadow=false
+specularMapEnabled=true
